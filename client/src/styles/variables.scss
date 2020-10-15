@@ -1,0 +1,18 @@
+$color-background: #ffffff;
+
+$color-primary: #7268e1;
+$color-secondary: #534ca4;
+$color-success: #90bf50;
+$color-warning: #fbb744;
+$color-danger: #e2593d;
+
+$color-main: #393560;
+$color-main-10: scale-color($color-main, $lightness: 10%);
+$color-main-20: scale-color($color-main, $lightness: 20%);
+$color-main-30: scale-color($color-main, $lightness: 30%);
+$color-main-40: scale-color($color-main, $lightness: 40%);
+$color-main-50: scale-color($color-main, $lightness: 50%);
+$color-main-60: scale-color($color-main, $lightness: 60%);
+$color-main-70: scale-color($color-main, $lightness: 70%);
+$color-main-80: scale-color($color-main, $lightness: 80%);
+$color-main-90: scale-color($color-main, $lightness: 90%);

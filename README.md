@@ -1,1 +1,5 @@
-# vue-apollo-graphql
+## Setup
+
+```
+docker-compose up -d --build
+```
